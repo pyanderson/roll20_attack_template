@@ -9,4 +9,4 @@ The previous scripts before this extension:
 - [Default Template](https://pastebin.com/b4R73k2B)
 - [SotDL Template](https://pastebin.com/Ac566i0c)
 
-All icons used in extension from [icons8](icons8.com).
+All icons used in extension from [icons8](https://icons8.com/).
